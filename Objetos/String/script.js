@@ -38,7 +38,7 @@ console.log(transacao1.slice(-7))
 console.log(transacao1.slice(0,-2))
 
 console.log(fruta.indexOf('a'))
-console.log(fruta.lasIndexOf('a'))
+console.log(fruta.lastIndexOf(''))
 
 
 
